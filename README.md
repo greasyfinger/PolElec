@@ -2,6 +2,7 @@
 
 ## Figma Prototype links:
 [High Fidelity Prototype](https://www.figma.com/proto/Wn23VJn1u063fEMUG9aKh4/PolElec-Hifi?node-id=24-413&starting-point-node-id=24%3A413&mode=design&t=YKqTyUDrdLjRAIPc-1)
+
 [High Fidelity Wireframe](https://www.figma.com/file/Wn23VJn1u063fEMUG9aKh4/PolElec-Hifi?type=design&node-id=0%3A1&mode=design&t=ackReWuvh2WFxF1y-1)
 ## Project Overview
 
